@@ -1,4 +1,4 @@
-# HH Goa 2026 — Builder ID Generator
+# HH Goa 2026-Builder ID Generator
 
 A fast, browser-based Builder ID generator inspired by the visual identity of Hacker House Goa 2026.
 
